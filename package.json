@@ -1,0 +1,21 @@
+{
+  "name": "brush-votes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "crypto": "^1.0.1",
+    "https-proxy-agent": "^5.0.1",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2"
+  }
+}
